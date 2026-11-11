@@ -1,0 +1,19 @@
+p {
+    color: #666666;
+}
+
+.intro {
+    color: #ba16bd;
+    font-weight: 500;
+}
+
+#register {
+    display: inline-block;
+    background-color: #ff4757;
+    color: #ffffff;
+    padding: 10px 22px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    margin-top: 8px;
+}
